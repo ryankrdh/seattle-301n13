@@ -198,3 +198,8 @@ Student.prototype.scopeArrow = () => console.log(this);
 //
 // 3. Explain why "this" is different when an arrow function is used.
 //
+
+
+
+// 1. To complete step 10, refactor the function expressions one at a time. Uncomment the console.log line and use it to check that the output is the same after you have completed the refactoring process.
+// 1. To complete step 11, uncomment the two console.log lines and observe the output in the developer console in the browser. Answer the corresponding questions.
